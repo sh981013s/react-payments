@@ -1,10 +1,18 @@
 {
   "files": {
-    "main.js": "/react-payments/static/js/main.adfe0f8c.js",
-    "index.html": "/react-payments/index.html",
-    "main.adfe0f8c.js.map": "/react-payments/static/js/main.adfe0f8c.js.map"
+    "main.js": "/static/js/main.7adee4a6.js",
+    "static/media/shinhan-logo.svg": "/static/media/shinhan-logo.84be6bf6f80d24548bf1ffbc9c267bfb.svg",
+    "static/media/bc-logo.svg": "/static/media/bc-logo.6eb30052b265522c454ced82abcb2077.svg",
+    "static/media/kakao-logo.svg": "/static/media/kakao-logo.7e34f170b9d7263fcc4c331255f8dfb3.svg",
+    "static/media/hyundai-logo.svg": "/static/media/hyundai-logo.d2410a0858284545dabc3b451407001a.svg",
+    "static/media/lotte-logo.svg": "/static/media/lotte-logo.569c93ca494a613b419ac675642c4f29.svg",
+    "static/media/woori-logo.svg": "/static/media/woori-logo.a40166362f165f8e30aed38a0616eb04.svg",
+    "static/media/kookmin-logo.svg": "/static/media/kookmin-logo.8755444753bada1b0fb2f3c773d2533d.svg",
+    "static/media/hana-logo.svg": "/static/media/hana-logo.911c6e7a8707d74cd4302415dc7699e0.svg",
+    "index.html": "/index.html",
+    "main.7adee4a6.js.map": "/static/js/main.7adee4a6.js.map"
   },
   "entrypoints": [
-    "static/js/main.adfe0f8c.js"
+    "static/js/main.7adee4a6.js"
   ]
 }
